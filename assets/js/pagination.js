@@ -1,5 +1,5 @@
 $('#pagination-leafbuyer').twbsPagination({
-  totalPages: 15,
+  totalPages: 16,
   next: 'Next',
   prev: 'Prev',
   
