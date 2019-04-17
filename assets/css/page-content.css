@@ -1,0 +1,21 @@
+.twbs-pagination {
+  margin-left: -15px;
+  margin-top: -40px;
+}
+
+.article-body {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.article-badge {
+  padding: 4px 6px;
+  margin: 0px 4px 8px 0px;
+}
+
+.article-date {
+  font-size: 13px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
