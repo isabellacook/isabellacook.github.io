@@ -4,7 +4,7 @@ $('#pagination-leafbuyer').twbsPagination({
   prev: 'Prev',
   
   onPageClick: function (event, page) {
-    $('#page-content-leafbuyer').load("../../templates/leafbuyer.html #articles-leafbuyer-" + page);
+    $('#page-content-leafbuyer').load("../../../templates/leafbuyer.html #articles-leafbuyer-" + page);
   }
 });
 
@@ -14,7 +14,7 @@ $('#pagination-calaveras').twbsPagination({
   prev: 'Prev',
   
   onPageClick: function (event, page) {
-    $('#page-content-calaveras').load("../../templates/calaveras.html #articles-calaveras-" + page);
+    $('#page-content-calaveras').load("../../../templates/calaveras.html #articles-calaveras-" + page);
   }
 });
 
@@ -24,6 +24,6 @@ $('#pagination-fishrap').twbsPagination({
   prev: 'Prev',
   
   onPageClick: function (event, page) {
-    $('#page-content-fishrap').load("../../templates/fishrap.html #articles-fishrap-" + page);
+    $('#page-content-fishrap').load("../../../templates/fishrap.html #articles-fishrap-" + page);
   }
 });
