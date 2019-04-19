@@ -1,8 +1,8 @@
 .header-blue {
-  background-image: url(../../assets/img/mountains.jpg);
+  background-image: linear-gradient(rgba(153, 135, 77, 0.5), rgba(0, 0, 0, 0.5)), url(../../assets/img/mountains.jpg);
   background-size: cover;
   background-position: center;
-  opacity: 0.6;
+  opacity: 0.85;
   padding-bottom: 80px;
   font-family: 'Source Sans Pro', sans-serif;
   height: 100%;
